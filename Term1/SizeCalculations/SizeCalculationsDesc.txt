@@ -1,0 +1,3 @@
+This is a calculator that calculates different measurements. It can calculate the area
+and perimeter of a square/rectangle, the circumference of a circle, the area
+of a triangle, and the volume of a cube/rectangular prism. It even has a menu system!

@@ -1,0 +1,2 @@
+This is a Hangman program that has the user guess the word, letter by letter.
+You know what Hangman is.

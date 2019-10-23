@@ -1,0 +1,2 @@
+This is a Choose Your Own Adventure game that has multiple story paths with win and lose situations.
+Oh, and ASCII art, too.

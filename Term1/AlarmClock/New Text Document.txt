@@ -1,0 +1,2 @@
+This program uses Tkinter to display a clock. It has alarm functionality
+that allows the user to enter when they would like the alarm to go off.
