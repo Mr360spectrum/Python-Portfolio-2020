@@ -1,0 +1,1 @@
+It's literally just Tic Tac Toe. You play against the computer. 

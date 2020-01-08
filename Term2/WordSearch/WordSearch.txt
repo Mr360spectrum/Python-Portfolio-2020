@@ -1,0 +1,1 @@
+This is a word search program. It generates a grid of letters based off of the given string. It works by taking coordinates from the user. It will return a score at the end.
